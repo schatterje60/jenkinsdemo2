@@ -23,6 +23,10 @@ public class WebController
 		{
 			return "hi !!";
 		}
+	 	public String welcome()
+		{
+			return "welcome";
+		}
 	
 
 }
