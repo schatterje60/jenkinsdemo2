@@ -19,7 +19,7 @@ public class WebController
 			return ("Test from local");
 		}
 		*/
-		pubic String greet()
+		public String greet()
 		{
 			return "hi !!";
 		}
