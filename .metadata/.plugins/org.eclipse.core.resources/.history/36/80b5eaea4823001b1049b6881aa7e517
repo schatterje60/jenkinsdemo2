@@ -25,7 +25,7 @@ public class WebController
 		}
 	 	public String welcome()
 		{
-			return "welcome to jenkins";
+			return "welcome";
 		}
 	
 
